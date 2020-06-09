@@ -1,1 +1,2 @@
-this is dev config
+config:
+  info: this is dev config
