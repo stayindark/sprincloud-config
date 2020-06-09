@@ -1,1 +1,2 @@
-this is test config
+config:
+  info: this is test config
