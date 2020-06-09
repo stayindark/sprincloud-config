@@ -1,1 +1,2 @@
-this is prod config
+config:
+  info: this is prod config
